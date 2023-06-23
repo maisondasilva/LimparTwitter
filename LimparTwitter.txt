@@ -18,7 +18,6 @@ twitter.com###trends
 twitter.com##[aria-label$="trending now" i]
 
 ! Linha do Tempo (Time Line)
-
 ! 2023-06-23 Remove tweets promovidos. Removes promoted tweets thanks to reddit.
 twitter.com##[data-testid="tweet"]:has-text(/Promoted|Gesponsert|Реклама/)
 
