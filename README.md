@@ -11,5 +11,4 @@ Copy the RAW link for the .txt file: https://raw.githubusercontent.com/maisondas
 
 Read and follow this: https://github.com/gorhill/uBlock/wiki/Filter-lists-from-around-the-web
 
-Thanks
-Maison
+# Thanks Maison
