@@ -1,0 +1,13 @@
+! Title: LimparTwitter
+! Dev: maisondasilva
+! Description: Filtros Adblock para o Twitter. Remove tweets promovidos, você pode gostar, quem seguir, o que está acontecendo, mais tweets e outros aborrecimentos.
+! Homepage: https://github.com/maisondasilva/limpartwitter
+! Last updated: June 23, 2023
+
+
+
+
+! removes "promoted tweets (ads)". thanks to reddit.
+twitter.com##[data-testid="tweet"]:has-text(/Promoted|Gesponsert|Реклама/)
+!twitter.com##[data-focusable="true"]:has-text(/Promoted|Gesponsert|Реклама/)
+!twitter.com##[data-focusable="false"]:has-text(/Promoted|Gesponsert|Реклама/)
