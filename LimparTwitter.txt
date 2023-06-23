@@ -4,25 +4,28 @@
 ! Homepage: https://github.com/maisondasilva/LimparTwitter
 ! Last updated: June 23, 2023
 
-! 2023-06-23 Remove O que está acontecendo
+! !!! Barra Lateral (Sidebar !!! !
+! 2023-06-23 Remove O que está acontecendo (Removes what is happening)
 twitter.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-14wv3jr.r-g2wdr4.css-1dbjc4n:nth-of-type(4)
 
-! !!! TIMELINE !!! !
-! Removes "promoted tweets (ads)". Taken from Easylist because my original one is broken!
+! 2023-06-23 Remove Obter verificação (Remove get verification)
+twitter.com##.r-1f1sjgu.r-ymttw5.r-uaa2di.r-eqz5dr.r-1habvwh.css-1dbjc4n
+
+! Barra Lateral - Tópicos a seguir (Sidebar - Topics to follow)
+twitter.com##[data-testid="sidebarColumn"] [href="/i/topics/picker/home"]:upward(section)
+twitter.com###trends
+! Barra Lateral - Tendências agora/Tendências para você (Sidebar - Trending now/Trends for you)
+twitter.com##[aria-label$="trending now" i]
+
+! Linha do Tempo (Time Line)
+! 2023-06-23 Remove tweets (anúncios) promovidos (Removes promoted tweets (ads))
 twitter.com#?#div[data-testid="UserCell"]:-abp-has(svg + div[dir="auto"] > span:-abp-contains(/Promoted|Gesponsert|Promocionado|Sponsorisé|Sponsorizzato|Promowane|Promovido|Реклама|Uitgelicht|Sponsorlu|Promotert|Promoveret|Sponsrad|Mainostettu|Sponzorováno|Promovat|Ajánlott|Προωθημένο|Dipromosikan|Được quảng bá|推廣|推广|推薦|推荐|プロモーション|프로모션|ประชาสัมพันธ์|प्रचारित|বিজ্ঞাপিত|تشہیر شدہ|مُروَّج|تبلیغی|מקודם/))
 twitter.com#?#div[data-testid="eventHero"]:-abp-contains(/Promoted|Gesponsert|Promocionado|Sponsorisé|Sponsorizzato|Promowane|Promovido|Реклама|Uitgelicht|Sponsorlu|Promotert|Promoveret|Sponsrad|Mainostettu|Sponzorováno|Promovat|Ajánlott|Προωθημένο|Dipromosikan|Được quảng bá|推廣|推广|推薦|推荐|プロモーション|프로모션|ประชาสัมพันธ์|प्रचारित|বিজ্ঞাপিত|تشہیر شدہ|مُروَّج|تبلیغی|מקודם/)
 twitter.com#?#div[data-testid="placementTracking"]:-abp-has(svg + div[dir="auto"] > span:-abp-contains(/Promoted|Gesponsert|Promocionado|Sponsorisé|Sponsorizzato|Promowane|Promovido|Реклама|Uitgelicht|Sponsorlu|Promotert|Promoveret|Sponsrad|Mainostettu|Sponzorováno|Promovat|Ajánlott|Προωθημένο|Dipromosikan|Được quảng bá|推廣|推广|推薦|推荐|プロモーション|프로모션|ประชาสัมพันธ์|प्रचारित|বিজ্ঞাপিত|تشہیر شدہ|مُروَّج|تبلیغی|מקודם/))
 twitter.com#?#div[data-testid="trend"]:-abp-contains(/Promoted|Gesponsert|Promocionado|Sponsorisé|Sponsorizzato|Promowane|Promovido|Реклама|Uitgelicht|Sponsorlu|Promotert|Promoveret|Sponsrad|Mainostettu|Sponzorováno|Promovat|Ajánlott|Προωθημένο|Dipromosikan|Được quảng bá|推廣|推广|推薦|推荐|プロモーション|프로모션|ประชาสัมพันธ์|प्रचारित|বিজ্ঞাপিত|تشہیر شدہ|مُروَّج|تبلیغی|מקודם/)
 twitter.com#?#h2[role="heading"]:-abp-contains(/Promoted|Gesponsert|Promocionado|Sponsorisé|Sponsorizzato|Promowane|Promovido|Реклама|Uitgelicht|Sponsorlu|Promotert|Promoveret|Sponsrad|Mainostettu|Sponzorováno|Promovat|Ajánlott|Προωθημένο|Dipromosikan|Được quảng bá|推廣|推广|推薦|推荐|プロモーション|프로모션|ประชาสัมพันธ์|प्रचारित|বিজ্ঞাপিত|تشہیر شدہ|مُروَّج|تبلیغی|מקודם/)
 
-! removes "promoted tweets (ads)". thanks to reddit.
+! 2023-06-23 Remove tweets promovidos. Removes promoted tweets thanks to reddit.
 twitter.com##[data-testid="tweet"]:has-text(/Promoted|Gesponsert|Реклама/)
 !twitter.com##[data-focusable="true"]:has-text(/Promoted|Gesponsert|Реклама/)
 !twitter.com##[data-focusable="false"]:has-text(/Promoted|Gesponsert|Реклама/)
-
-! !!! SIDEBAR !!! !
-! Sidebar - Topics to follow
-twitter.com##[data-testid="sidebarColumn"] [href="/i/topics/picker/home"]:upward(section)
-twitter.com###trends
-! Sidebar - Trending now/Trends for you
-twitter.com##[aria-label$="trending now" i]
