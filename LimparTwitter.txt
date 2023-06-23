@@ -7,6 +7,8 @@
 ! !!! Barra Lateral (Sidebar !!! !
 ! 2023-06-23 Remove O que está acontecendo (Removes what is happening)
 twitter.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-14wv3jr.r-g2wdr4.css-1dbjc4n:nth-of-type(4)
+! 2023-06-23 Remove O que está acontecendo na Pesquisa (Removes what is happening in Search)
+twitter.com##.css-1dbjc4n > div.r-1ny4l3l.r-1adg3ll.css-1dbjc4n > .css-1dbjc4n > .r-6416eg.r-o7ynqc.r-1yzf0co.r-ymttw5.r-1ny4l3l.r-1loqt21.css-1dbjc4n.css-18t94o4.css-4rbku5
 
 ! 2023-06-23 Remove Obter verificação (Remove get verification)
 twitter.com##.r-1f1sjgu.r-ymttw5.r-uaa2di.r-eqz5dr.r-1habvwh.css-1dbjc4n
