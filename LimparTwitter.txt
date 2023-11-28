@@ -2,7 +2,7 @@
 ! Dev: maisondasilva
 ! Description: Filtros Adblock para o Twitter. Remove tweets promovidos, você pode gostar, quem seguir, o que está acontecendo, mais tweets e outros aborrecimentos.
 ! Homepage: https://github.com/maisondasilva/LimparTwitter
-! Last updated: October 21, 2023
+! Last updated: October 28, 2023
 
 ! !!! Barra Lateral (Sidebar) !!! !
 ! 2023-06-23 Remove O que está acontecendo na Notificação (Removes what is happening in Notification)
@@ -36,6 +36,8 @@ twitter.com##div.r-1d6w8o1.r-x572qd.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-186
 twitter.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-14wv3jr.r-g2wdr4.css-1dbjc4n:nth-of-type(6)
 ! 2023-11-22 https://twitter.com
 twitter.com##div.r-14wv3jr.r-g2wdr4.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.css-175oi2r:nth-of-type(6)
+! 2023-11-28 https://twitter.com
+twitter.com##div.r-1d6w8o1.r-x572qd.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.css-175oi2r:nth-of-type(6)
 
 ! 2023-06-23 Remove O que está acontecendo na Pesquisa (Removes what is happening in Search)
 twitter.com##.css-1dbjc4n > div.r-1ny4l3l.r-1adg3ll.css-1dbjc4n > .css-1dbjc4n > .r-6416eg.r-o7ynqc.r-1yzf0co.r-ymttw5.r-1ny4l3l.r-1loqt21.css-1dbjc4n.css-18t94o4.css-4rbku5
