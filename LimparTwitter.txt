@@ -39,6 +39,8 @@ twitter.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1d6w8o1.r-x5
 twitter.com##div.r-14wv3jr.r-g2wdr4.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.css-175oi2r:nth-of-type(5)
 ! 2023-11-21 https://twitter.com
 twitter.com##div.r-1d6w8o1.r-x572qd.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.css-175oi2r:nth-of-type(5)
+! 2024-04-30 https://twitter.com
+twitter.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-jxzhtn.r-14lw9ot.css-175oi2r:nth-of-type(5)
 
 ! 2023-11-15 https://twitter.com
 twitter.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-14wv3jr.r-g2wdr4.css-1dbjc4n:nth-of-type(6)
