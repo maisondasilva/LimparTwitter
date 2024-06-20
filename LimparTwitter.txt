@@ -86,3 +86,8 @@ vlibras.gov.br
 www.msn.com##.newsContent-DS-EntryPoint1-1
 www.msn.com##grid-view-feed
 www.msn.com##.scrollContent-DS-EntryPoint1-1
+
+! 2024-06-20 https://rastreamento.correios.com.br
+rastreamento.correios.com.br##.active.carousel-item
+rastreamento.correios.com.br##.carousel-control-next
+rastreamento.correios.com.br##.carousel-control-prev
