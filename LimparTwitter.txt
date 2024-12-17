@@ -94,6 +94,8 @@ vlibras.gov.br
 www.msn.com##.newsContent-DS-EntryPoint1-1
 www.msn.com##grid-view-feed
 www.msn.com##.scrollContent-DS-EntryPoint1-1
+! 16 de dez. de 2024 https://www.msn.com
+www.msn.com##.WeatherRightRailRoot-DS-EntryPoint1-1
 
 ! 2024-06-20 https://rastreamento.correios.com.br
 rastreamento.correios.com.br##.active.carousel-item
