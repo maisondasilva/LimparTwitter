@@ -21,6 +21,10 @@ twitter.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-jxzhtn.r-14l
 x.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1kqtdi0.r-kemksi.css-175oi2r:nth-of-type(3)
 ! 2024-07-16 https://x.com
 x.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-jxzhtn.r-14lw9ot.css-175oi2r:nth-of-type(3)
+! 7 de jan. de 2025 https://x.com
+x.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1kqtdi0.r-kemksi.css-175oi2r:nth-of-type(3)
+
+
 
 ! 2023-06-23 Remove O que está acontecendo (Removes what is happening)
 twitter.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-14wv3jr.r-g2wdr4.css-1dbjc4n:nth-of-type(4)
@@ -38,6 +42,8 @@ twitter.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-jxzhtn.r-14l
 x.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1kqtdi0.r-kemksi.css-175oi2r:nth-of-type(4)
 ! 2024-07-16 https://x.com
 x.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-jxzhtn.r-14lw9ot.css-175oi2r:nth-of-type(4)
+! 7 de jan. de 2025 https://x.com
+x.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1kqtdi0.r-kemksi.css-175oi2r:nth-of-type(4)
 
 ! 2023-06-23 Remove O que está acontecendo no Perfil (Removes what is happening in Profile)
 twitter.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-14wv3jr.r-g2wdr4.css-1dbjc4n:nth-of-type(5)
