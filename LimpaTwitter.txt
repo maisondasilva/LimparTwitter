@@ -1,8 +1,8 @@
 ! Title: LimpaTwitter
 ! Dev: maisondasilva
 ! Description: Filtros Adblock para o Twitter. Remove tweets promovidos, você pode gostar, quem seguir, o que está acontecendo, mais tweets e outros aborrecimentos.
-! Homepage: https://github.com/maisondasilva/LimparTwitter
-! Last updated: October 28, 2023
+! Homepage: https://github.com/maisondasilva/LimpaTwitter
+! Last updated: Jan 22, 2025
 
 ! !!! Barra Lateral (Sidebar) !!! !
 ! 2023-06-23 Remove O que está acontecendo na Notificação (Removes what is happening in Notification)
